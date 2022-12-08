@@ -1,4 +1,38 @@
-# :construction: README customizado em construção ! :construction:
+# Project Trybers and Dragons :dragon:
+
+## :hammer_and_wrench: Tools
+
+:green_circle: Typescript
+
+In this project I was able to practice the following concepts:
+
+:large_blue_circle: Classes, constructor, attributes and method
+<br>
+
+:large_blue_circle: Abstraction
+<br>
+
+:large_blue_circle: Abstract class and abstract method
+<br>
+
+:large_blue_circle: Encapsulation
+<br>
+
+:large_blue_circle: Static methods
+<br>
+
+:large_blue_circle: Override
+<br>
+
+:large_blue_circle: Inheritance
+<br>
+
+:large_blue_circle: Type Union
+<br>
+
+:large_blue_circle: Interface
+
+
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
 
