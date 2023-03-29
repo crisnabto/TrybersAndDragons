@@ -1,5 +1,7 @@
 # Project Trybers and Dragons :dragon:
 
+Apply SOLID and OOP principles in an RPG structure game
+
 ## :hammer_and_wrench: Tools
 
 :green_circle: Typescript
